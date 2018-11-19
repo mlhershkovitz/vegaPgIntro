@@ -1,7 +1,7 @@
 {
   "name": "vegapgintro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vega PG Intro ===",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "pg": "^7.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlhershkovitz/vegaPgIntro.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mlhershkovitz/vegaPgIntro/issues"
+  },
+  "homepage": "https://github.com/mlhershkovitz/vegaPgIntro#readme"
 }
